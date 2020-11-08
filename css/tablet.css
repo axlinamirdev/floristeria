@@ -18,11 +18,19 @@
 
 .plans-container--slider{
 	justify-content: center;
-	height: 350px;
+	height: 410px;
 	overflow-x: hidden;
 }
 
 .header--title-container h1 {
     font-size: 5rem;
     line-height: 6rem;
+}
+
+.plans-container--card{
+	height: 350px;
+}
+
+.img--card{
+	height: 320px;
 }
